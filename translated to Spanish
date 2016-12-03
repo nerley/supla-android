@@ -1,0 +1,97 @@
+<resources>
+	
+	    <string name="app_name" translatable="false">SUPLA</string>
+	    <string name="slogan" translatable="false">"YOUR HOME CONNECTED"</string>
+	    <string name="menubar_title" translatable="false">supla</string>
+	    <string name="homepage" translatable="false">www.supla.org</string>
+	    <string name="homepage_url" translatable="false">https://www.supla.org</string>
+	    <string name="feedback_email" translatable="false">feedback@supla.org</string>
+	    <string name="feedback_subject" translatable="false">SUPLA for Android feedback</string>
+	    <string name="feedback_title">Enviar Email</string>
+	
+	    <string name="version">versión</string>
+	
+	    <string name="feedback">Retroalimentación</string>
+	    <string name="about">Acerca de</string>
+	    <string name="settings">Configuraciones</string>
+	
+	    <string name="status_connecting">Connectando...</string>
+	    <string name="status_unknown_err">Error desconocido</string>
+	    <string name="status_temporarily_unavailable">Servicio temporalmente no disponible </string>
+	    <string name="status_bad_credentials">Error en login </string>
+	    <string name="status_climit_exceded">Limite del cliente excedido</string>
+	    <string name="status_access_disabled">Acceso deshabilitado </string>
+	    <string name="status_version_error">Version del servidor incompatible</string>
+	
+	    <string name="err_hostnotfound">Host no encontrado</string>
+	    <string name="err_cantconnecttohost">No se puede conectar al host</string>
+	
+	    <string name="channel_func_gateway">Puerta de entrada</string>
+	    <string name="channel_func_gate">Puerta</string>
+	    <string name="channel_func_garagedoor">Puerta del garaje</string>
+	    <string name="channel_func_door">Portezuela</string>
+	    <string name="channel_func_rollershutter">Persiana</string>
+	    <string name="channel_func_powerswith">Interruptor de potencia</string>
+	    <string name="channel_func_lightswith">Interruptor de luz</string>
+	    <string name="channel_func_thermometer">Termometro</string>
+	    <string name="channel_func_humidity">Humedad</string>
+	    <string name="channel_func_humidityandtemperature">Temperatura y humedad</string>
+	    <string name="channel_func_dimmer">Dimmer</string>
+	    <string name="channel_func_rgblighting">Luz RGB</string>
+	    <string name="channel_func_dimmerandrgblighting">Dimmer y LUZ RGB </string>
+	    <string name="channel_func_noliquidsensor">No hay sensor de liquido</string>
+	    <string name="channel_func_gatewayopeningsensor">Sensor de apertura de puerta de entrada</string>
+	    <string name="channel_func_gateopeningsensor">Sensor de apertura de puerta</string>
+	    <string name="channel_func_garagedooropeningsensor">Sensor de apertura de puerta del garaje</string>
+	    <string name="channel_func_dooropeningsensor">Sensor de apertura de portezuela</string>
+	    <string name="channel_func_rsopeningsensor">Sensor de la persiana</string>
+	    <string name="channel_func_depthsensor">Sensor de nivel</string>
+	    <string name="channel_func_distancesensor">Sensor de distancia</string>
+	
+	    <string name="rgb_brightness">Brillo </string>
+	    <string name="rgb_color">Color</string>
+	    <string name="rgb_state">Estado</string>
+	
+	    <string name="channel_btn_open">Open</string>
+	    <string name="channel_btn_openclose">Abrir Cerrar</string>
+	    <string name="channel_btn_reveal">Abrir</string>
+	    <string name="channel_btn_shut">Cerrado</string>
+	    <string name="channel_btn_on">On</string>
+	    <string name="channel_btn_off">Off</string>
+	
+	    <string name="event_openedthegateway">Puerta principal abierta</string>
+	    <string name="event_openedclosedthegate">Abierta / Cerrada la puerta</string>
+	    <string name="event_openedclosedthegatedoors"> Abierta / Cerrada la puerta del garaje</string>
+	    <string name="event_openedthedoor">Portezuela abierta</string>
+	    <string name="event_openedcloserollershutter"> Abierta / Cerrada la persiana</string>
+	    <string name="event_poweronoff">Accionar la potencia ON/OFF</string>
+	    <string name="event_turnedthelightonoff">Accionar la LUZ ON/OFF</string>
+	
+	    <string name="server_address">Direccion del servidor</string>
+	    <string name="access_id">Identificador de acceso</string>
+	    <string name="password">CONTRASEÑA</string>
+	
+	    <string name="about_app">Autor: Przemyslaw Zygmunt przemek@supla.org\n
+	 Diseño de interfaz grafica: Mateusz Major mateusz@supla.org\n\n
+	
+	Este programa es software libre; Puede redistribuirlo y / o \ n
+	 Modificarlo bajo los términos de la Licencia Pública General GNU \ n
+	 Según lo publicado por la Free Software Foundation; Ya sea versión 2 \ n
+	 De la Licencia, o (a su elección) cualquier versión posterior. \ N \ n
+	
+	 Este programa se distribuye con la esperanza de que sea útil, \ n
+	 Pero SIN NINGUNA GARANTÍA; Sin la garantía implícita de \ n
+	 COMERCIABILIDAD o APTITUD PARA UN PROPÓSITO PARTICULAR. Vea la \ n
+	 GNU General Public License para más detalles. \ N \ n
+	
+	 Debería haber recibido una copia de la Licencia Pública General GNU \ n
+	 Junto con este programa; Si no, escriba en el Software Libre \ n
+	 Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, EE.UU.
+	    </string>
+	
+	    <string name="Califica este programa ">Si has disfrutado este programa, por favor saca un momento y calificalo!</string>
+	    <string name="rate_now">Calificar ahora</string>
+	    <string name="rate_later">Despues</string>
+	    <string name="rate_no_thanks">No gracias</string>
+	
+	</resources>
